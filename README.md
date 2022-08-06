@@ -4,7 +4,7 @@ I'm a vending machine for medicines.
 
 - 🚀 JAD BOU KARAM - CEO & CTO 
 - 🤔 MARIA RBEIZ - CMO 
-- 🌲 AYA BERBERI - CFO
+
 
 <div>
   <h2>🧰 METAMED WAS BUILT USING:</h2><br>
