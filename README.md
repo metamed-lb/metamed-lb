@@ -5,7 +5,6 @@ I'm a vending machine for medicines.
 - 🤔 MARIA RBEIZ - CEO & CMO 
 - 🚀 JAD BOU KARAM - CTO
 
-
 <div>
   <h2>🧰 METAMED WAS BUILT USING:</h2><br>
     <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
