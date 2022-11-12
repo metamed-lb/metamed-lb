@@ -11,6 +11,7 @@ I'm a vending machine for medicines.
     <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
     <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
     <img src="https://img.shields.io/static/v1?label=&message=JAVA&color=orange&style=for-the-badge&logo=JAVA&logoColor=whitesmoke" alt="JAVA">
+    <img src="	https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="SCRATCH">
     <br><br>
 </div>
 
